@@ -1,0 +1,106 @@
+
+    .bg{
+        background-image: url("lawn2.jpg");
+        background-size: 100%;
+    }
+
+    *{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    }
+
+    .header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+    }
+
+    .nav{
+    height:100%;
+    }
+
+    .nav li a{
+    height:100%;
+    display: table;
+    padding: 30px;
+    padding-left: 40px;
+    color: white;
+    }
+
+    .nav li{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    }
+
+    section{
+        width: 30%;
+        border: 5px solid green;
+        background: white;
+        margin: auto;
+        margin-top: 20px;
+        padding: 10px;  
+    }
+
+    .tab{
+        margin:20px;
+        width: auto;
+    }
+  
+  .hm{
+    width: 50%;
+  }
+  
+  .db{
+    width: 75%;
+  }
+  
+  
+  button{
+    position: relative;
+    background: black;
+    color: white;
+    padding: 5px;
+  }
+  
+  .home{
+    margin-top:20px;
+    margin-left: 50%;
+  }
+  
+  table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 3px;
+    border: 2px solid green;
+    border-collapse: collapse;
+  }
+  
+  td{
+    padding: 5px;
+    text-align: center;
+  }
+  th{
+    padding: 5px;
+    color: green;
+  }
+  
+  h1{
+    text-align: center;
+    color: green;
+  }
+
+  label{
+    padding: 5px;
+    display: inline-block;
+    width: 200px;
+    margin-left: 10px;
+  }
+  
+  
+  
+  
